@@ -81,8 +81,8 @@ WSGI_APPLICATION = 'Shoppy.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'shoppy',
-        'USER': 'rafam',
+        'NAME': 'platzishoppy',
+        'USER': 'platzishoppyuser',
         'PASSWORD': 'hola',
         'HOST': '127.0.0.1',
         'PORT': '5432',
